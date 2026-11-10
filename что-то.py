@@ -503,7 +503,11 @@ class AIhelperApp:
         input_frame.pack(fill=tk.X)
         
         # === АККУРАТНАЯ ТОНКАЯ СКРЕПКА ===
+<<<<<<< HEAD
         attach_btn = tk.Label(input_frame, text="+", font=("Segoe UI", 35), 
+=======
+        attach_btn = tk.Label(input_frame, text="📎", font=("Segoe UI", 35), 
+>>>>>>> 5ebfb4a927b78279d8b5e238882fcfe07e492cfc
                               bg=self.input_bg, fg="#FFFFFF", cursor="hand2", 
                               padx=10, pady=10)
         attach_btn.pack(side=tk.LEFT, padx=(15, 10), pady=5)

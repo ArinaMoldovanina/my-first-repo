@@ -1,4 +1,4 @@
 # spell.py
-power = 777
+power = 999
 print(f"Сила: {power}")
 
