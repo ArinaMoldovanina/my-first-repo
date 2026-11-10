@@ -1,5 +1,5 @@
 # spell.py
-power = 777
+power = 100
 print(f"Сила: {power}")
 print("rebase работает")
 
