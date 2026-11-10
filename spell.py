@@ -1,3 +1,4 @@
-# spell.py — итоговая версия (конфликт разрешён)
-power = 999
+# spell.py
+power = 777
 print(f"Сила: {power}")
+
