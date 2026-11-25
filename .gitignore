@@ -1,5 +1,4 @@
 __pycache__/
-*.pyc
-.vscode/
 .venv/
-*.log
+data/*.csv
+data/*.json
